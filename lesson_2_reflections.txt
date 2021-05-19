@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+new version control is created, otherwise, it will be just like normai file
