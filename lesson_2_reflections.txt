@@ -1,3 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 new version control is created, otherwise, it will be just like normai file
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area is to keep things temp, before comitting. if we are satisfied, we can commit.
+
+***********************
